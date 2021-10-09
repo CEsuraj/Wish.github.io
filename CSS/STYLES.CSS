@@ -1,0 +1,114 @@
+/* ******************************* class ******************************* */
+.index{
+  background-color: #CEE5D0;
+  color: #FF5C58;
+  padding: 20PX;
+  margin: 0;
+}
+
+
+.one{
+  background-color: #F9E4C8;
+  color: #C32BAD;
+  padding: 20PX;
+  margin: 0;
+}
+
+.two{
+    background-color: #F3D5C0;
+    color: #4B3869;
+    padding: 20PX;
+    margin: 0;
+}
+.three{
+  background-color: #F3D5C0;
+  color: #4B3869;
+  padding: 20PX;
+  margin: 0;
+}
+
+.FIVE{
+  background-color: #EB92BE;
+  height: 20px;
+  width: 150px;
+  padding: 20PX;
+  margin: 0;
+  border-radius: 5%
+}
+
+.FIVE:hover{
+  background-color: #A239EA;
+}
+
+.six
+{
+  background-color: #E2C2B9;
+  height: 20px;
+  width: 150px;
+  padding: 20PX;
+  margin: 0;
+  border-radius: 5%
+}
+
+.six:hover{
+  background-color: #A239EA;
+}
+
+.TEN
+{
+  background-color: #B97A95;
+  height: 20px;
+  width: 150px;
+  padding: 20PX;
+  margin: 0;
+  border-radius: 5%
+}
+
+.TEN:hover{
+  background-color: #A239EA;
+}
+
+.YOUR
+{
+  background-color: #22577A;
+}
+
+.part{
+  background-color: #FF4848;
+  color: #FFEACA;
+}
+.eight{
+  color: #22577A;
+  padding: 20PX;
+  margin: 0;
+}
+
+.NINE{
+  background-color: #FFBCBC;
+  color: #262A53;
+}
+
+.heading{
+  background: gold;
+  color: #4C4C6D;
+}
+
+.poem{
+  background-color: gold;
+  font-size: 120%;
+  color: #4C4C6D;
+  height: 650px;
+  width: 150px;
+  padding: 20PX;
+  margin: 0;
+  border-radius: 5%
+}
+
+.surprise{
+  background-color: #B8DFD8;
+
+}
+/* ************************************TAG ******************************** */
+body{
+  margin: 0;
+}
